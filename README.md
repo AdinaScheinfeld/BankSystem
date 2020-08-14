@@ -18,7 +18,7 @@ An exception will be created and thrown if an ivalid selection is chosen by the 
 Folders
 
 - Account Types
-  -code for account types: Savings, Checking, CD
+  - code for account types: Savings, Checking, CD
   
 - Exception Classes
   - code for exception classes
