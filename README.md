@@ -16,4 +16,9 @@ An exception will be created and thrown if an ivalid selection is chosen by the 
 - customer attemps an invalid withdrawal
 
 Folders
--
+
+- Account Types
+  -code for account types: Savings, Checking, CD
+  
+- Exception Classes
+  - code for exception classes
